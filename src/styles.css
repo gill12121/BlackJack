@@ -1,0 +1,132 @@
+.nav-button > button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+
+}
+.nav-button > button {
+    margin-left: 35px;
+    cursor: pointer;
+
+}
+.nav-button{
+    list-style: none;
+    display: flex;
+    align-items: center;
+
+}
+.nav-nc{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.nav-nc > p{
+    margin-left: 47px;
+    margin-right: 39px;
+}
+.main-OHD > button{
+
+    width: 70px;
+    height: 40px;
+    margin: 20px;
+    cursor: pointer;
+    text-align: center;
+
+}
+.tt{
+    height: 35px;
+    margin-left: 10%;
+    display: flex;
+}
+.tt > p{
+    margin: 5px;
+}
+.tt2{
+    height: 35px;
+    margin-left: 10%;
+    display: flex;
+}
+.tt2 > p{
+    margin: 5px;
+}
+.turn{
+    margin-left: 41%;
+    border: 1px solid ;
+    border-radius: 4px;
+    text-align: center;
+    margin-right: 42%;
+}
+table{
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border: 1px solid black;
+    border-color: black;
+    border-width: 3px;
+    width: 30%;
+    margin: auto;
+
+}
+
+
+.hit{
+    border: 1px solid ;
+    border-radius: 4px;
+    margin-right: 70%;
+    text-align: center;
+    background-color: #5dff3d;
+    opacity: 0.6;
+}
+.stand{
+    border: 1px solid black;
+    border-radius: 4px;
+    margin-right: 70%;
+    text-align: center;
+    background-color: #ff0000;
+    opacity: 0.6;
+}
+.double{
+    border: 1px solid black;
+    border-radius: 4px;
+    margin-right: 70%;
+    text-align: center;
+    background-color: #ffff00;
+    opacity: 0.6;
+}
+.split{
+    border: 1px solid black;
+    border-radius: 4px;
+    margin-right: 70%;
+    text-align: center;
+    background-color: #0049fe;
+    opacity: 0.6;
+}
+
+
+.wtd2{
+    margin-left: 11%;
+}
+.wtd{
+    margin-left: 41%;
+}
+
+
+table, th, td {
+    border: 1px solid;
+    text-align: center;
+}
+th {
+    height: 35px;
+    text-align: center;
+}
+.mp{
+
+    border: none;
+    text-align: center;
+}
+.dp{
+    text-align: center;
+    border: none;
+}
+.foot-t{
+    display: flex;
+    text-align: center;
+}
