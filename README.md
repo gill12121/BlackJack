@@ -12,3 +12,9 @@ Information is can be inputed via keyboard or mouse,
 Notifications for the next move according to percentages and colors,
 An updated database that presents vital statistics during gameplay.
 If while counting accidentally inputed the wrong card can "backspace" to undo.
+
+How to run the code:
+First in your programming software create new folder.
+Then open the terminal and write "npx create-react-app my-app" .
+After the download of react replace all the src file with the one on github.
+lastly write in the terminal npm start.
