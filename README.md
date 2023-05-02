@@ -6,11 +6,11 @@ This software also tells you what should be your next move (Stand, Hit, Double, 
 The software works by calculating all the possibilities with the remaining deck but you have to tell the software your cards and the dealer's.<br>
 Also this app implements the old counting card by checking how many high and low cards have been dealt and telling you before the hand starts  if the deck is cold or warm.<br>
 * Option for inputting information,
-An option to adjust to each game according to the number of packages,
-Information is can be inputed via keyboard or mouse,
-Notifications for the next move according to percentages and colors,
-An updated database that presents vital statistics during gameplay.
-If while counting accidentally inputed the wrong card can "backspace" to undo.
+* Option to adjust to each game according to the number of packages,
+* Information is can be inputed via keyboard or mouse,
+* Notifications for the next move according to percentages and colors,
+* An updated database that presents vital statistics during gameplay.
+* If while counting accidentally inputed the wrong card can "backspace" to undo.
 
 How to run the code
 --------------------
