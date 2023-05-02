@@ -1,5 +1,5 @@
 # BlackJack Card counter
-Version 3, focusing on technological capabilities above the rules of Blackjack.
+Version 3, focusing on technological capabilities above the rules of Blackjack.\n
 This is a react based web app that keeps count on all the cards that have been dealt by the dealer.
 once you deal yourself and the dealer cards you can calculate the odds for a win.
 This software also tells you what should be your next move (Stand, Hit, Double, Split).
