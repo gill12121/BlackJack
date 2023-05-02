@@ -1,5 +1,5 @@
 # BlackJack
-##Card counter
+## Card counter
 Version 3, focusing on technological capabilities above the rules of Blackjack.
 This is a react based web app that keeps count on all the cards that have been dealt by the dealer.
 once you deal yourself and the dealer cards you can calculate the odds for a win.
@@ -13,7 +13,8 @@ Notifications for the next move according to percentages and colors,
 An updated database that presents vital statistics during gameplay.
 If while counting accidentally inputed the wrong card can "backspace" to undo.
 
-How to run the code:
+How to run the code
+--------------------
 First in your programming software create new folder.
 Then open the terminal and write "npx create-react-app my-app" .
 After the download of react replace all the src file with the one on github.
